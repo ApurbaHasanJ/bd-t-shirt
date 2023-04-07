@@ -1,0 +1,23 @@
+.t-shirt{
+    border: 1px solid lightblue;
+    border-radius: 15px;
+    padding: 10px;
+    display: grid;
+    justify-content: center;
+    box-shadow: 1px 2px 4px 1px rgb(119, 117, 120);
+}
+.t-shirt img{
+    height: 250px;
+    border-radius: 15px;
+}
+
+.buy-now-btn{
+    background-color: paleturquoise;
+    padding: 10px;
+    border-radius: 8px;
+    font-weight: 600;
+}
+
+.buy-now-btn :hover{
+    background-color: rgb(133, 11, 214);
+}
