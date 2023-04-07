@@ -1,0 +1,12 @@
+nav{
+    background: paleturquoise;
+    padding: 12px;
+}
+nav a{
+    font-weight: 600;
+    color: darkmagenta;
+    margin-right: 15px;
+    font-size: 20px;
+    text-decoration: none;
+
+}
